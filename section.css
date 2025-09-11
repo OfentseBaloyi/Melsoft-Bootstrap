@@ -39,3 +39,11 @@ body {
     width: 799px;
     height: 312px;
 } */
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px;
+    flex
+}
