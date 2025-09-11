@@ -1,0 +1,49 @@
+h1{
+    font-size: 40px;
+    color: black;
+    line-height: 1.4em;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+        
+
+}
+
+p {
+    font-size: 20px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    margin-bottom: 1em;
+}
+
+body {
+    font-family: 'Red Hat Text', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    font-size: 1rem;
+}
+
+.my-btn{
+    background-color: #100547 !important;
+    font-size: 17px;
+    fill: var( --e-global-color-astglobalcolor5 );
+    color: var( --e-global-color-astglobalcolor5 );
+    padding: 20px 20px 20px 20px;
+}
+
+/* .qcto-logo{
+    width: 799px;
+    height: 312px;
+} */
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px;
+    flex
+}
