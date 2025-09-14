@@ -57,6 +57,28 @@
 }
 
 .custom-bg {
-  background-color: #100547;
+  background-color: #757575;
   color: white;
+}
+/* Footer Styling */
+#caleb-footer footer {
+  background-color: #757575;
+  color: white !important;
+  padding: 20px 0;
+}
+
+#caleb-footer footer li a {
+  color: white !important;
+  text-decoration: none;
+}
+
+#caleb-footer footer li a:hover {
+  text-decoration: none;
+  color: #f535ff !important;
+}
+
+#caleb-footer footer h5 {
+  color: white !important;
+  font-weight: bold;
+  margin-bottom: 5px;
 }
