@@ -24,7 +24,7 @@
 
 /* Apply Now button */
 .apply-btn {
-  background-color: #160049; 
+  background-color: #160049;
   color: #fff;
   border-radius: 25px;
   padding: 6px 18px;
@@ -45,7 +45,7 @@
 }
 
 .feature-card:hover {
-  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
   transform: translateY(-5px);
 }
 
@@ -54,4 +54,9 @@
   font-size: 0.9rem;
   font-weight: bold;
   color: #5a3dff; /* accent color */
+}
+
+.custom-bg {
+  background-color: #100547;
+  color: white;
 }
