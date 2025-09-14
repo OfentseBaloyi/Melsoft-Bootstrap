@@ -24,7 +24,7 @@
 
 /* Apply Now button */
 .apply-btn {
-  background-color: #160049;
+  background-color: #9e0059;
   color: #fff;
   border-radius: 25px;
   padding: 6px 18px;
@@ -32,7 +32,7 @@
 }
 
 .apply-btn:hover {
-  background-color: #2a0070;
+  background-color: #9e0059;
   color: #fff;
 }
 
@@ -55,9 +55,12 @@
   font-weight: bold;
   color: #5a3dff; /* accent color */
 }
+.text-primary {
+  color: white !important;
+}
 
 .custom-bg {
-  background-color: #100547;
+  background-color: #9e0059;
   color: white;
 }
 /* Footer Styling */
@@ -81,4 +84,10 @@
   color: white !important;
   font-weight: bold;
   margin-bottom: 5px;
+}
+
+button {
+  background-color: #9e0059 !important;
+  color: white !important;
+  border: none !important;
 }
