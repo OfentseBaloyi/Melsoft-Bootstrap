@@ -91,3 +91,7 @@ button {
   color: white !important;
   border: none !important;
 }
+
+.card-body {
+  background-color: lightgray;
+}
